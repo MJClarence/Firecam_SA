@@ -3,8 +3,6 @@ import tensorflow as tf
 import cv2
 import os
 from PIL import Image
-import requests
-import csv
 
 model_dirpath = '..../Azure_Iteration_5_SM/'
 pre_image_dir = '..../Testing_Pre/'
